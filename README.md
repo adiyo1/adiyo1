@@ -14,8 +14,7 @@
 #### 💻 Projects by Programming Language
 - **Unity:** TARGETDROP
 - **C++:** Catan Game
-- **C:** Academic projects and coding exercises
-- **Python:** Personal projects and coding challenges
+- **C, Python:** Academic projects and coding exercises
 
 ---
 
