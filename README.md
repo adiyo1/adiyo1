@@ -27,8 +27,9 @@
 ---
 
 ### 📊 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=your-username&theme=radical)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical)  
 
 ---
 
