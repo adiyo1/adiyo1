@@ -26,14 +26,6 @@
 
 ---
 
-### 📊 Statistics
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
-
----
-
 ### 📫 Contact Me
 📧 adi.yohanann@gmail.com  
 🌐 https://www.linkedin.com/in/עדי-יוחנן
